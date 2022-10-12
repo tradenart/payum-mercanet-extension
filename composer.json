@@ -34,7 +34,7 @@
   },
   "autoload": {
     "psr-4": {
-      "TradenArt\\Payum\\Mercanet\\": ""
+      "Tradenart\\Payum\\Mercanet\\": ""
     }
   },
   "extra": {
